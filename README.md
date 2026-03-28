@@ -7,6 +7,13 @@ Organizations often lack a clear understanding of their sales performance across
 This project builds an interactive Power BI dashboard to analyze sales, profit, and customer behavior, enabling better business decision-making.
 
 ---
+## 📊 Dashboard Preview
+
+### Overview
+![Overview](Screenshots/Overview.png)
+
+### Top / Bottom Products
+![Top Bottom](Screenshots/Top-Bottom.png)
 
 ## 🎯 Objectives
 
